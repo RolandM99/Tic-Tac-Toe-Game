@@ -2,7 +2,7 @@
     /* CSS Code */
     /* Heading */
     h1 { 
-        color: orangered; 
+        color: rgb(240, 84, 27); 
         font-size: 45px; 
     } 
   
@@ -12,7 +12,7 @@
         width: 80px; 
         height: 52px; 
         margin: auto; 
-        border: 3px solid rgba(255, 68, 0, 0.712); 
+        border: 3px solid rgba(240, 84, 27); 
         border-radius: 6px; 
         font-size: 30px; 
         text-align: center;
