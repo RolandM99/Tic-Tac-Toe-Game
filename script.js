@@ -1,6 +1,6 @@
 function myfunc() { 
   
-    // Setting DOM to all boxes or input field 
+     
 
     var b1, b1, b3, b4, b5, b6, b7, b8, b9; 
     b1 = document.getElementById("b1").value; 
